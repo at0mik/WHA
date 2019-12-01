@@ -1,2 +1,2 @@
-# WHA
-White hat arsenal, a collection of very useful technical and exploit books.
+# own-exploits
+Exploits Created By Me.
